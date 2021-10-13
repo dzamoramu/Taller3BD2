@@ -1,0 +1,94 @@
+{
+    "mascotas": [
+        {
+            "geolocation": {
+                "latitude": "-45.98145",
+                "longitude": "80.8742"
+            },
+            "vital_signs": {
+                "temperature": "38.2",
+                "heart_rate": "85.4",
+                "breathing_frecuency": "19.2"
+            },
+            "_id": "615efd38bad81d4a7d18caff",
+            "timestamp": "2021-10-07T13:59:16.034Z",
+            "microchip": "TAKU7481",
+            "pet_name": "Nova",
+            "owner_name": "Andres",
+            "species": "Samoyedo",
+            "__v": 0
+        },
+        {
+            "geolocation": {
+                "latitude": "-75.98145",
+                "longitude": "24.8742"
+            },
+            "vital_signs": {
+                "temperature": "37.2",
+                "heart_rate": "86.4",
+                "breathing_frecuency": "18.5"
+            },
+            "_id": "615f19b84f90db5d2c001151",
+            "timestamp": "2021-10-07T14:35:40.002Z",
+            "microchip": "RYH715",
+            "pet_name": "Kira",
+            "owner_name": "Nelson",
+            "species": "Pug",
+            "__v": 0
+        },
+        {
+            "geolocation": {
+                "latitude": "-100.74145",
+                "longitude": "45.7481"
+            },
+            "vital_signs": {
+                "temperature": "37.5",
+                "heart_rate": "88.5",
+                "breathing_frecuency": "19.8"
+            },
+            "_id": "615f1a704f90db5d2c001154",
+            "timestamp": "2021-10-07T14:35:40.002Z",
+            "microchip": "QEI7415",
+            "pet_name": "Tommy",
+            "owner_name": "Juan",
+            "species": "Husky",
+            "__v": 0
+        },
+        {
+            "geolocation": {
+                "latitude": "-67.1475",
+                "longitude": "36.9781"
+            },
+            "vital_signs": {
+                "temperature": "38.5",
+                "heart_rate": "89.1",
+                "breathing_frecuency": "17.7"
+            },
+            "_id": "615f1b0b4f90db5d2c001157",
+            "timestamp": "2021-10-07T14:35:40.002Z",
+            "microchip": "XUY123",
+            "pet_name": "Max",
+            "owner_name": "Carolina",
+            "species": "Golden retriever",
+            "__v": 0
+        },
+        {
+            "geolocation": {
+                "latitude": "-69.1475",
+                "longitude": "74.9781"
+            },
+            "vital_signs": {
+                "temperature": "37.0",
+                "heart_rate": "87.7",
+                "breathing_frecuency": "18.8"
+            },
+            "_id": "615f26484f90db5d2c00115c",
+            "timestamp": "2021-10-07T14:35:40.002Z",
+            "microchip": "BNJ258",
+            "pet_name": "Nala",
+            "owner_name": "Daniela",
+            "species": "Husky",
+            "__v": 0
+        }
+    ]
+}
